@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChatApp</string>
+    <string name="sign_out_action">Sign out</string>
+    <string name="sign_in_action">Sign in</string>
+    <string name="prefs_action">Preferences</string>
+    <string name="username_hint">User name</string>
+    <string name="password_hint">Password</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_messages">MessagesActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_conversation">NewConversationActivity</string>
+
+</resources>

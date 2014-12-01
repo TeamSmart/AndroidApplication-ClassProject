@@ -1,0 +1,4 @@
+#!/bin/sh
+./gradlew assembleDebug &&\
+adb install -r build/apk/chatapp-debug-unaligned.apk &&\
+adb shell am start -n net.liucs.chatapp/.HelloActivity

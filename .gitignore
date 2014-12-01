@@ -1,0 +1,7 @@
+/chatserv/pyenv/
+*.pyc
+/chatserv/data.sqlite
+/chatapp/local.properties
+/chatapp/.gradle/
+/chatapp/build/
+/chatapp/.idea/workspace.xml
